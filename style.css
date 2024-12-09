@@ -471,11 +471,15 @@ body {
     .page9 {
         height: 48vh;
     }
+    .page9>div>h1 {
+        font-size: 3rem;
+        line-height: 3rem;
+    }
     .page10{
         height: 500px;
     }
     .page8-content>h1 {
-        font-size: 3rem;
+        font-size: 2.3rem;
     }
 
     .page10-inner {
